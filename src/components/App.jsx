@@ -4,7 +4,9 @@ function App() {
 
     return (
         <>
-          <Perfil></Perfil>
+          <p>Olá React!</p>
+          <Perfil nome="Felipe Davi do Nascimento Lopes"/>
+          <Perfil nome="Felipe Davi do Nascimento Lopes"/>
         </>
     )
 }
